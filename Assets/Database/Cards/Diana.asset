@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8872299c0c499a846a8aec48fc82ec04, type: 3}
+  m_Name: Diana
+  m_EditorClassIdentifier: 
+  Id: 2
+  Name: Diana
+  ArtWork: {fileID: 21300000, guid: 3d318ee57c08c7f41a262014a3d617c0, type: 3}
+  Thumbnail: {fileID: 21300000, guid: 8dc18d70c6e19e24590315ac3c69f92b, type: 3}
+  Top: 9
+  Right: 8
+  Bottom: 7
+  Left: 6

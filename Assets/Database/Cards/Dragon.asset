@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8872299c0c499a846a8aec48fc82ec04, type: 3}
+  m_Name: Dragon
+  m_EditorClassIdentifier: 
+  Id: 1
+  Name: ' Dragon infernal'
+  ArtWork: {fileID: 21300000, guid: e3bff38fcc1d796468d44262540c344a, type: 3}
+  Thumbnail: {fileID: 21300000, guid: 289ec1c4e2d703e4d86176e384425a26, type: 3}
+  OnCapturated: 
+  OnDropAnimationName: 
+  Top: 9
+  Right: 9
+  Bottom: 9
+  Left: 9

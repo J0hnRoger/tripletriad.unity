@@ -1,0 +1,12 @@
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Infrastructure\bin\Debug\TripleTriad.Infrastructure.dll
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Infrastructure\bin\Debug\TripleTriad.Infrastructure.pdb
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Infrastructure\bin\Debug\CSharpFunctionalExtensions.dll
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Infrastructure\bin\Debug\CSharpFunctionalExtensions.pdb
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Infrastructure\bin\Debug\CSharpFunctionalExtensions.xml
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Infrastructure\obj\Debug\TripleTriad.Infrastructure.csproj.AssemblyReference.cache
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Infrastructure\obj\Debug\TripleTriad.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Infrastructure\obj\Debug\TripleTriad.Infrastructure.csproj.CopyComplete
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Infrastructure\obj\Debug\TripleTriad.Infrastructure.dll
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Infrastructure\obj\Debug\TripleTriad.Infrastructure.pdb
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Infrastructure\bin\Debug\Newtonsoft.Json.xml

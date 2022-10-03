@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb21470d20ee82147828036e73088785, type: 3}
+  m_Name: TestLevel
+  m_EditorClassIdentifier: 
+  CurrentNode: {fileID: 0}
+  _nodes:
+  - {fileID: 11400000, guid: d12f869004a304f44b17374a0ba47282, type: 2}
+  - {fileID: 11400000, guid: a7245a59eecd5ea40bcb3e5a360f038d, type: 2}
+  - {fileID: 11400000, guid: 9f0bfdeb7e71561408fb3ebf95dd80db, type: 2}
+  LevelName: The Dungeon of Newbies
+  IsVisited: 0

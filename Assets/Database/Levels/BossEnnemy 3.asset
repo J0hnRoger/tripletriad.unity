@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f2ec830648d4e4cb5f2729ce929dd1, type: 3}
+  m_Name: BossEnnemy 3
+  m_EditorClassIdentifier: 
+  ActiveNodeImage: {fileID: 21300000, guid: 4f1a7dbd503743340ab31d38ab8e188a, type: 3}
+  InactiveNodeImage: {fileID: 21300000, guid: 284598748ff2ac74ab9b6484f653df7a, type: 3}
+  Opponent: {fileID: 11400000, guid: 4539e58994e2f664bb1ad326cadc2afc, type: 2}
+  OpponentDeck: {fileID: 11400000, guid: f8c63d6bf3f35964eb9f421671c455b5, type: 2}

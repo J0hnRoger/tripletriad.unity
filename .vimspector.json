@@ -1,0 +1,16 @@
+{
+  "configurations": {
+    "launch - netcoredbg": {
+      "adapter": "netcoredbg",
+      "filetypes": [ "cs", "fsharp", "vbnet" ], // optional
+      "configuration": {
+        "request": "launch",
+        "program": "${workspaceRoot}/bin/Debug/TripleTriad.Engine/bin/Debug/TripleTriad.Engine.dll",
+        "args": [],
+        "stopAtEntry": true,
+        "cwd": "${workspaceRoot}",
+        "env": {}
+      }
+    }
+  }
+}

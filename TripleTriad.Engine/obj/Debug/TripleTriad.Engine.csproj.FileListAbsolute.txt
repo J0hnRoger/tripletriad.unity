@@ -1,0 +1,10 @@
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Engine\bin\Debug\TripleTriad.Engine.dll
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Engine\bin\Debug\TripleTriad.Engine.pdb
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Engine\bin\Debug\CSharpFunctionalExtensions.dll
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Engine\bin\Debug\CSharpFunctionalExtensions.pdb
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Engine\bin\Debug\CSharpFunctionalExtensions.xml
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Engine\obj\Debug\TripleTriad.Engine.csproj.CoreCompileInputs.cache
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Engine\obj\Debug\TripleTriad.Engine.csproj.CopyComplete
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Engine\obj\Debug\TripleTriad.Engine.dll
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Engine\obj\Debug\TripleTriad.Engine.pdb
+C:\Personal\Unity\TripleTriad.Unity\TripleTriad.Engine\obj\Debug\TripleTriad.Engine.csproj.AssemblyReference.cache

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8872299c0c499a846a8aec48fc82ec04, type: 3}
+  m_Name: Minion
+  m_EditorClassIdentifier: 
+  Id: 5
+  Name: Minion
+  ArtWork: {fileID: 21300000, guid: 769fd19833d16044b97eb7595de6c965, type: 3}
+  Thumbnail: {fileID: 21300000, guid: 3661ce34555a06645b686c8d6a026e25, type: 3}
+  OnCapturated: 
+  OnDropAnimationName: 
+  Top: 1
+  Right: 4
+  Bottom: 1
+  Left: 1

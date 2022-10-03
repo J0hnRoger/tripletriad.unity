@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d4e42414b86498db4cfc3df78ad6917, type: 3}
+  m_Name: WorldMapLevels
+  m_EditorClassIdentifier: 
+  Items:
+  - {fileID: 11400000, guid: 5c91d5de598145d4fae9868edae4dd42, type: 2}
+  - {fileID: 11400000, guid: 41edc76f026f78f4f95a248ecf42931f, type: 2}
+  - {fileID: 11400000, guid: a05a6fcd431582b45b56c181255d917f, type: 2}
+  WorldMapName: Noob's plain
