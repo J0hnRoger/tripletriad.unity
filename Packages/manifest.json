@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.rogerfamily.tools": "file:../../Unity Packages/Tools",
     "com.unity.adaptiveperformance.samsung.android": "4.0.0",
     "com.unity.feature.2d": "1.0.0",
     "com.unity.feature.mobile": "1.0.0",
